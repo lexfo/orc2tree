@@ -1,3 +1,4 @@
+numpy<2.0.0
 coloredlogs
 pandas
-py7zr>=0.21.1
+py7zr==1.0.0-rc1
